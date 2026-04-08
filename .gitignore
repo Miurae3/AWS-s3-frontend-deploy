@@ -1,2 +1,3 @@
-.lockhcl
-.tfstate
+.terraform.lock.hcl
+terraform.tfstate
+.terraform
